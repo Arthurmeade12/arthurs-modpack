@@ -3,3 +3,7 @@
 
 # Exclude README
 /README.md
+/.git
+/.gitignore
+/.packwizignore
+**/.DS_Store

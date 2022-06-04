@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "6268b26c3cc6238d7c9f480a204db50c187d5d8d79a52b585aab5fff73b09265"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -639,10 +635,6 @@ hash = "c9360b769c27a6bf08ddfd3a30254c6260c16d682e503c7f873c904819a7e13e"
 [[files]]
 file = "icon.png"
 hash = "334add9bfcceeea21d19d8ed26aab1f93f84127ecb018db567e44ede6ad35018"
-
-[[files]]
-file = "mods/.DS_Store"
-hash = "58f123d8504dd07fe45d60bb32bff2ac8f6cdc16e71abcd1a3e66ab4717412bf"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
