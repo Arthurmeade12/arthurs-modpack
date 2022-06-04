@@ -1,0 +1,13 @@
+name = "AutoAFKFish"
+filename = "autoafkfish-fabric-1.0.1+build.4+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8dd7b979d7c74477f52e024572012dda2c5c0a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3675696
+project-id = 358814

@@ -1,0 +1,13 @@
+name = "Notes Fabric"
+filename = "notes-1.18-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38357d698e4e62cdb95df83257840fac1e54db40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3602385
+project-id = 388252

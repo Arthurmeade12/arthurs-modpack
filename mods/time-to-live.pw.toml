@@ -1,0 +1,13 @@
+name = "Time To Live"
+filename = "Fabric-1.18-TimeToLive-0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "976d5ebfc3e8aede6ecd29f8c211cd10782819c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3548118
+project-id = 357220

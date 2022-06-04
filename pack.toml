@@ -1,0 +1,16 @@
+name = "Arthur's Modpack"
+author = "Arthurmeade12"
+version = "1.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "931fa16d4cc5e6899e133272474ede7c4f015749cf13d1c6e0d51d6e41087d7a"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.0-beta.1"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]

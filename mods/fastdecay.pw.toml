@@ -1,0 +1,14 @@
+name = "FastDecay"
+filename = "FastDecay-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hMiEqUvR/versions/v1.1.0/FastDecay-1.1.0.jar"
+hash-format = "sha1"
+hash = "49c76e7d8bb5fbec53becbf164543a879c1d3ae4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "hMiEqUvR"
+version = "F0KjDJ3b"

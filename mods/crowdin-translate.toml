@@ -1,0 +1,9 @@
+name = "Crowdin-Translate"
+filename = "crowdin-translate-1.4+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://minecraft.guntram.de/maven/de/guntram/mcmod/crowdin-translate/1.4+1.18.2/crowdin-translate-1.4+1.18.2.jar"
+hash-format = "sha256"
+hash = "36cb657541007ebfb8eee35db0334dbfa7c5fcfeb4570e90dd9fee61ce97c9c6"
+mode = ""
