@@ -1,9 +1,0 @@
-name = "BedrockSkinUtility"
-filename = "BedrockSkinUtility-1.2.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Camotoy/BedrockSkinUtility/releases/download/1.2.1/BedrockSkinUtility-1.2.1.jar"
-hash-format = "sha256"
-hash = "490e2becbfab8e57306d3584102d11815b45e6df393fb767549eaf8c23d7b118"
-mode = ""
