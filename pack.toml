@@ -1,13 +1,13 @@
-name = "Arthurs Modpack 1 . 19"
+name = "Arthurs Modpack 1.18"
 author = "Arthurmeade12"
-version = "1.5.0"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc0beaa781e899d74c529ab77e6662cf4f2b91dec8f63f9f9cdfb5c28fc5edaf"
+hash = "d92b190bcb78599f0af7466064773586324bcfc5ecd709b65e742a70afed4954"
 
 [versions]
-minecraft = "1.19"
-quilt = "0.17.1-beta.1"
+minecraft = "1.18"
+quilt = "0.18.10"
